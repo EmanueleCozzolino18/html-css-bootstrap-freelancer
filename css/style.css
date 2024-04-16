@@ -4,8 +4,16 @@
     background-color: #2C3E50;
 }
 
+.ec-bg-lightblue {
+    background-color: #3A546D;
+}
+
 .ec_bglime {
     background-color: #1ABC9C;
+}
+
+.ec_color-lime {
+    color: #1ABC9C;
 }
 
 .ec_custom-avatar {
