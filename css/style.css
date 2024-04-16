@@ -7,3 +7,8 @@
 .ec_bglime {
     background-color: #1ABC9C;
 }
+
+.ec_custom-avatar {
+    width: 250px;
+    height: auto;
+}
