@@ -16,3 +16,7 @@
 .ec_custom-list {
     width: 60%;
 }
+
+.ec_custom-textarea {
+    border-bottom: 1px solid gray;
+}
